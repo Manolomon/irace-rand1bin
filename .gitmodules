@@ -1,0 +1,3 @@
+[submodule "text-representation"]
+	path = text-representation
+	url = https://github.com/quality-attributes/text-representation
